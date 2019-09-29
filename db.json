@@ -1,0 +1,72 @@
+{
+"status": "ok",
+"totalResults": 265,
+"articles": [
+{
+"source": {
+"id": "mashable",
+"name": "Mashable"
+},
+"author": "Dylan Haas",
+"title": "Here are 20 online courses for professionals, each less than $20",
+"description": "You may think it's too late to learn the most sought-after professional skills of 2019, but you'd be wrong. Time moves fast but, come on, it doesn't move that fast. Workplaces of 2020 will still be looking for many of the same skills. What we're trying to say…",
+"url": "https://mashable.com/shopping/sept-29-online-courses-under-20/",
+"urlToImage": "https://mondrian.mashable.com/2019%252F09%252F29%252Ff7%252Fd35e282801d7488493115ba0e62790b7.3b20e.png%252F1200x630.png?signature=jNMyg35yOGlZzhnK3GxRyYRGJIM=",
+"publishedAt": "2019-09-29T09:00:00Z",
+"content": "You may think it's too late to learn the most sought-after professional skills of 2019, but you'd be wrong. Time moves fast but, come on, it doesn't move that fast. Workplaces of 2020 will still be looking for many of the same skills. What we're trying to say… [+4134 chars]"
+},
+{
+"source": {
+"id": "usa-today",
+"name": "USA Today"
+},
+"author": "USA TODAY, Beverly Willett, Opinion contributor",
+"title": "Like many Americans, my divorce destroyed my mental health and nearly drove me to suicide",
+"description": "During my long divorce, I was pressed by a fear: If the relationship with my husband could dissolve, what about the relationship with my children?",
+"url": "https://www.usatoday.com/story/opinion/voices/2019/09/29/suicide-prevention-month-divorce-rates-risk-column/2430536001/?utm_source=google&utm_medium=amp&utm_campaign=speakable",
+"urlToImage": "https://www.gannett-cdn.com/presto/2019/09/27/USAT/8e5669bf-76db-42be-89ae-9c2cf946224e-XXX_ThinkstockPhotos-186251428.jpg?crop=3793,2134,x1,y424&width=3200&height=1680&fit=bounds",
+"publishedAt": "2019-09-29T08:00:03Z",
+"content": "During my long divorce, I was pressed by a fear: If the relationship with my husband could dissolve, what about the relationship with my children?\r\nSeptember is back-to-school and Sunday afternoon football and harvesting the last vegetables from the garden. I… [+5272 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Digitaltrends.com"
+},
+"author": "Aaron Mamiit",
+"title": "Apple rumored to be planning to remove the notch in iPhone 12",
+"description": "A rumor claims that Apple may ditch the notch in the iPhone 12, which will end all debate on the controversial display feature. The tweet and render follow similar predictions by analysts on the removal of the notch, which was popularized by the iPhone X, but…",
+"url": "https://www.digitaltrends.com/mobile/iphone-12-no-notch-rumor/",
+"urlToImage": "https://icdn3.digitaltrends.com/image/digitaltrends/dsc_3404-1200x630-c-ar1.91.jpg",
+"publishedAt": "2019-09-29T02:53:52Z",
+"content": "Apple popularized the display notch in 2017’s iPhone X, but a rumor claims that the feature is on the chopping block just a few years later.\r\nThe iPhone X notch generated a wide range of reactions. Some said it was needed to provide users with more real estat… [+2138 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Twitter.com"
+},
+"author": null,
+"title": "Apple Card Review",
+"description": "Comments",
+"url": "https://twitter.com/aaronsuplizio/status/1178009699704160256",
+"urlToImage": null,
+"publishedAt": "2019-09-29T02:04:12Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "Github.com"
+}
+,
+"author": null,
+"title": "Apple Card Review",
+"description": "Comments",
+"url": "https://twitter.com/aaronsuplizio/status/1178009699704160256",
+"urlToImage": null,
+"publishedAt": "2019-09-29T02:04:12Z",
+"content": null
+}
+]
+}
